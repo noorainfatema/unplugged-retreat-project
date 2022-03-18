@@ -318,6 +318,11 @@ input[type=button] {
   flex-flow: row wrap;
 }
 
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 .features p {
   margin: 0;
   text-align: center;
@@ -590,6 +595,11 @@ faq .content-wrapper {
       flex-basis: 50%;
     }
 
+    .features i {
+      font-size: 4.5em;
+      margin-bottom: 30px;
+    }
+
     .features .features-item-description {
       width: 62%;
     }
@@ -758,6 +768,10 @@ faq .content-wrapper {
 
     .features article {
       flex-basis: 33%;
+    }
+
+    .features i {
+      margin-bottom: 30px;
     }
 
     /* --------- Reviews --------- */
