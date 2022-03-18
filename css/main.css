@@ -353,12 +353,12 @@ input[type=button] {
   flex-flow: row wrap;
 }
 
-.map-container figure{
+.map-container figure {
+  width: 100%;
   position:relative;
   padding-bottom: 125%;
   height: 0;
   overflow: hidden;
-  width: 100%;
 }
 
 .map-container iframe {
@@ -660,6 +660,10 @@ faq .content-wrapper {
       width: 45%;
     }
 
+    .map-container figure {
+      padding-bottom: 45.5%;
+    }
+
     .contact-section .content-wrapper h2 {
       width: 80%;
     }
@@ -779,6 +783,10 @@ faq .content-wrapper {
    .mission h2, .contact-section .content-wrapper h2 {
       width: 95%;
       font-size: 3em;
+   }
+
+   .map-container figure {
+     padding-bottom: 37.5%
    }
 
    .contact-content h4 {
