@@ -253,7 +253,7 @@ footer .copyright {
 
 /* Hero Area */
 .hero-area {
-  background: url('../img/hero-image.jpg') center no-repeat #333;
+  background: url('../img/hero-image-main.jpg') center no-repeat #333;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -306,7 +306,7 @@ input[type=button] {
 /* Features */
 
 .features {
-  background: url(../img/features-image.jpg) center no-repeat #333;
+  background: url('../img/features-img.jpg') center no-repeat #333;
   background-size: cover;
   display: flex;
   justify-content: center;
